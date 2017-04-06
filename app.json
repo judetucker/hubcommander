@@ -1,0 +1,7 @@
+{
+  "name": "Hubcommander",
+  "description": "A user-extendable Slack bot for GitHub organization management.",
+  "repository": "https://github.com/judetucker/hubcommander/",
+  "logo": "https://assets.brandfolder.com/oaxty0-egsr8w-17ksp7/view.png",
+  "keywords": ["GitHub", "Slack", "Heroku"]
+}

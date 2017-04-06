@@ -7,6 +7,8 @@ HubCommander
 | Service   | Master | Develop |
 |:-----------:|:--------:|:---------:|
 |Travis CI|[![Build Status](https://travis-ci.org/Netflix/hubcommander.svg?branch=master)](https://travis-ci.org/Netflix/hubcommander)|[![Build Status](https://travis-ci.org/Netflix/hubcommander.svg?branch=develop)](https://travis-ci.org/Netflix/hubcommander)|
+### Deploy with Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 A user-extendable Slack bot for GitHub organization management.
 
